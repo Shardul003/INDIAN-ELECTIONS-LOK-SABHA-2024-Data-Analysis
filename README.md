@@ -10,14 +10,14 @@
   <li>Seaborn</li>
   <li>Matplotlib</li>
 </ul></p>
-<h1>Web Scrapping</h1>
+<h1><b>Web Scrapping:</b></h1>
 <p>Web scraping is a technique used to extract data from websites. It involves programmatically fetching web pages and parsing their content to retrieve the desired information. This can be especially useful for gathering data from websites that do not provide an API or where manual data collection would be too time-consuming</p>
-<h3>Key Concepts</h3>
+<h3><b>Key Concepts-</b></h3>
 1.HTTP Requests
 2.Parsing HTML:
 3.Selecting Data:
 4.Storing Data
-<h1>INSIGHTS</h1>
+<h1><b>INSIGHTS:</b></h1>
 <ol>
   <li>Number of seats won by each party</li>
   <li>Get the votes for Rahul Gandhi, Narendra Modi, and Amit Shah</li>
