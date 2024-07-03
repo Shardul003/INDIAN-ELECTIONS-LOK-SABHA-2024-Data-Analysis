@@ -22,7 +22,6 @@
   <li>Number of seats won by each party</li>
   <li>Get the votes for Rahul Gandhi, Narendra Modi, and Amit Shah</li>
   <li>Highest and lowest Victory Candidate</li>
-  <li>Total Seats Won by Each Party</li>
   <li>Percentage of Total Seats Won by Each Party</li>
   <li>Top 5 Parties by Total Seats Won</li>
   <li>VOTER DISTRIBUTION BY PARTY</li>
