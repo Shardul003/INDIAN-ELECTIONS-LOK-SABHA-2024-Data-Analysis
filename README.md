@@ -1,4 +1,4 @@
-# Kalvium-Data-Analysis-Task
+# Data-Analysis-Task
 <h1><b>OVERVIEW:</b></h1>
 <p>This project involves extracting and analyzing election results from the Election Commission of India website. The data is gathered for both Union Territories and States and is saved in an Excel file.</p>
 <h1><b>Libraries:</b></h1>
